@@ -34,10 +34,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WSXxs4ev7GxJmiKFgCfUpfIRa7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -93,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579144219045</updated>
       <workItem from="1579144222125" duration="2016000" />
+      <workItem from="1579222235713" duration="146000" />
     </task>
     <servers />
   </component>
@@ -116,5 +121,9 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state width="2508" height="363" key="GridCell.Tab.0.right/0.27.2560.1413/2560.0.2560.1440@0.27.2560.1413" timestamp="1579147112265" />
+    <state x="686" y="240" width="1168" height="874" key="new project wizard" timestamp="1579222380199">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="686" y="240" width="1168" height="874" key="new project wizard/0.27.2560.1413/2560.0.2560.1440@0.27.2560.1413" timestamp="1579222380199" />
   </component>
 </project>
